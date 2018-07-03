@@ -1,0 +1,22 @@
+body{
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Shrikhand', cursive;
+}
+
+#content{
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+table{
+	text-align: left;
+}
+
+ul{ 
+	list-style-type: none; 
+}
