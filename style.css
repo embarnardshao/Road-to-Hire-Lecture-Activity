@@ -20,3 +20,8 @@ table{
 ul{ 
 	list-style-type: none; 
 }
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
