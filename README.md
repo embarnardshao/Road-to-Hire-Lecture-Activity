@@ -1,5 +1,5 @@
 # Road-to-Hire-Lecture-Activity
-July 3, 2018
+_July 3, 2018_
 
 [Slides](https://docs.google.com/presentation/d/1M3vcAoDFkNOfZN3YSSWVg6tpUuseCSqoeOZ8Om8YvbY/edit?usp=sharing)
 
