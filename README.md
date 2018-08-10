@@ -9,6 +9,6 @@ July 3, 2018
 
 2. correct HTML errors by using W3's HTML Validation or Chrome Inspector
 
-3. git add index.html
-   git commit -m "fixed HTML errors"
-   git push
+3. - git add index.html
+   - git commit -m "fixed HTML errors"
+   - git push
